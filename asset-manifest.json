@@ -1,0 +1,43 @@
+{
+  "files": {
+    "main.css": "/web3auth-gcloud/static/css/main.5298814c.css",
+    "main.js": "/web3auth-gcloud/static/js/main.656c88c9.js",
+    "static/js/978.a216c11c.chunk.js": "/web3auth-gcloud/static/js/978.a216c11c.chunk.js",
+    "static/js/848.8293eb00.chunk.js": "/web3auth-gcloud/static/js/848.8293eb00.chunk.js",
+    "static/js/501.4648ecc8.chunk.js": "/web3auth-gcloud/static/js/501.4648ecc8.chunk.js",
+    "static/js/366.56258e99.chunk.js": "/web3auth-gcloud/static/js/366.56258e99.chunk.js",
+    "static/js/422.fe315a7f.chunk.js": "/web3auth-gcloud/static/js/422.fe315a7f.chunk.js",
+    "static/js/42.0ef7f9cb.chunk.js": "/web3auth-gcloud/static/js/42.0ef7f9cb.chunk.js",
+    "static/js/620.a801e5f4.chunk.js": "/web3auth-gcloud/static/js/620.a801e5f4.chunk.js",
+    "static/js/699.5a5bd365.chunk.js": "/web3auth-gcloud/static/js/699.5a5bd365.chunk.js",
+    "static/js/250.5add7fee.chunk.js": "/web3auth-gcloud/static/js/250.5add7fee.chunk.js",
+    "static/js/344.d4b73b40.chunk.js": "/web3auth-gcloud/static/js/344.d4b73b40.chunk.js",
+    "static/js/111.47882151.chunk.js": "/web3auth-gcloud/static/js/111.47882151.chunk.js",
+    "static/js/654.1fefb2d0.chunk.js": "/web3auth-gcloud/static/js/654.1fefb2d0.chunk.js",
+    "static/js/833.7df5d82a.chunk.js": "/web3auth-gcloud/static/js/833.7df5d82a.chunk.js",
+    "static/js/437.48f6b5b5.chunk.js": "/web3auth-gcloud/static/js/437.48f6b5b5.chunk.js",
+    "static/js/950.2596713b.chunk.js": "/web3auth-gcloud/static/js/950.2596713b.chunk.js",
+    "static/js/130.f839f2c4.chunk.js": "/web3auth-gcloud/static/js/130.f839f2c4.chunk.js",
+    "static/js/703.67d7d424.chunk.js": "/web3auth-gcloud/static/js/703.67d7d424.chunk.js",
+    "static/js/305.20b3a58a.chunk.js": "/web3auth-gcloud/static/js/305.20b3a58a.chunk.js",
+    "static/js/354.b2d94aaf.chunk.js": "/web3auth-gcloud/static/js/354.b2d94aaf.chunk.js",
+    "static/js/401.710adbef.chunk.js": "/web3auth-gcloud/static/js/401.710adbef.chunk.js",
+    "static/js/735.ad61955e.chunk.js": "/web3auth-gcloud/static/js/735.ad61955e.chunk.js",
+    "index.html": "/web3auth-gcloud/index.html",
+    "main.5298814c.css.map": "/web3auth-gcloud/static/css/main.5298814c.css.map",
+    "main.656c88c9.js.map": "/web3auth-gcloud/static/js/main.656c88c9.js.map",
+    "501.4648ecc8.chunk.js.map": "/web3auth-gcloud/static/js/501.4648ecc8.chunk.js.map",
+    "366.56258e99.chunk.js.map": "/web3auth-gcloud/static/js/366.56258e99.chunk.js.map",
+    "950.2596713b.chunk.js.map": "/web3auth-gcloud/static/js/950.2596713b.chunk.js.map",
+    "130.f839f2c4.chunk.js.map": "/web3auth-gcloud/static/js/130.f839f2c4.chunk.js.map",
+    "703.67d7d424.chunk.js.map": "/web3auth-gcloud/static/js/703.67d7d424.chunk.js.map",
+    "305.20b3a58a.chunk.js.map": "/web3auth-gcloud/static/js/305.20b3a58a.chunk.js.map",
+    "354.b2d94aaf.chunk.js.map": "/web3auth-gcloud/static/js/354.b2d94aaf.chunk.js.map",
+    "401.710adbef.chunk.js.map": "/web3auth-gcloud/static/js/401.710adbef.chunk.js.map",
+    "735.ad61955e.chunk.js.map": "/web3auth-gcloud/static/js/735.ad61955e.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.5298814c.css",
+    "static/js/main.656c88c9.js"
+  ]
+}
